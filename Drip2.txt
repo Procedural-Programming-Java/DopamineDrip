@@ -1,0 +1,19 @@
+Enter the desired dose in mcg/kg/min
+Enter an integer between 5 and 10: 
+ 12 
+Too large. Try again
+Enter an integer between 5 and 10: 
+ 3 
+
+Enter the patient weight in kg :
+ 120 
+
+Administer 30 drops per minute
+
+ 
+ Please enter the weight and the dose:
+ Enter a zero to stop. 
+
+When patient weight is = 7kg the given dose = 120μ 
+ Then mlInfused = 0.84mg and the dripRate= 63.00preMin 
+
