@@ -1,20 +1,4 @@
-/**
- * @author Yaaqov Shkifati
- * @since 10/3/19
- * @version 1.0 
- * Part#2 
- * Description: In this program is we are continuing IV
- * calculation from part# 1 but, now we are just entering the patients
- * weight(kg) and calculating the dripRate(perMin) given the dose range
- * 5-10µg/kg/min.
- *
- * We will be writing this with program with the trailer method. We will first
- * create a while loop with the condition that dose is greater than zero. Within
- * the while loop we will create a for loop which will set condition to stay in
- * the dose range 5-10µg/kg/min and add one to the dose and then compute the
- * dripRate(preMin) for each dose until reach 10µg. Then we will signal the data
- * to stop by entering a zero and that is our trailer.
- */
+
 package dopaminedrip3;
 
 import java.util.Scanner;
