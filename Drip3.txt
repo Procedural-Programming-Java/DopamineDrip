@@ -1,0 +1,32 @@
+
+ Enter the patient weight in kg:  80 
+
+dose(mg/kg/min)	 dripRate per minute
+5			 30.00
+6			 36.00
+7			 42.00
+8			 48.00
+9			 54.00
+10			 60.00
+ 
+ Enter the patient weight in kg:  75 
+
+dose(mg/kg/min)	 dripRate per minute
+5			 28.13
+6			 33.75
+7			 39.38
+8			 45.00
+9			 50.63
+10			 56.25
+ 
+ Enter the patient weight in kg:  50 
+
+dose(mg/kg/min)	 dripRate per minute
+5			 18.75
+6			 22.50
+7			 26.25
+8			 30.00
+9			 33.75
+10			 37.50
+ 
+ Enter the patient weight in kg:
